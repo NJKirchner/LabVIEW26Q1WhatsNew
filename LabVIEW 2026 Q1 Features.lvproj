@@ -13,36 +13,30 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="System Level Debug Settings" Type="Folder">
-			<Item Name="Logging Project.lvproj" Type="Document" URL="../../../Users/nkirchne/Documents/~SANDBOX/LabVIEW 2026 Q1 Features/Logging Project/Logging Project.lvproj"/>
-		</Item>
-		<Item Name="VI Comparison Improvements" Type="Folder">
-			<Item Name="report vs compare improvments.vi" Type="VI" URL="../../../Users/nkirchne/Documents/~SANDBOX/LabVIEW 2026 Q1 Features/report vs compare improvments.vi"/>
-		</Item>
-		<Item Name="Externally Changed Files " Type="Folder">
-			<Item Name="Changed on disk dialog.vi" Type="VI" URL="../../../Users/nkirchne/Documents/~SANDBOX/LabVIEW 2026 Q1 Features/Changed on disk dialog.vi"/>
-		</Item>
-		<Item Name="Manage Trusted Files" Type="Folder">
-			<Item Name="Mark of the Web - Execution Security" Type="Folder"/>
-			<Item Name="PRevent option" Type="Folder"/>
-		</Item>
-		<Item Name=".NET 8 Core improvement" Type="Folder">
-			<Item Name="dotNET improvments.vi" Type="VI" URL="../../../Users/nkirchne/Documents/~SANDBOX/LabVIEW 2026 Q1 Features/dotNET improvments.vi"/>
-		</Item>
-		<Item Name="Headless LabVIEW" Type="Folder">
-			<Item Name="WIndows Docker Image" Type="Folder"/>
-		</Item>
-		<Item Name="Web Browser Control" Type="Folder">
-			<Item Name="Web-Bridge Launcher.vi" Type="VI" URL="../../../Users/nkirchne/Documents/~SANDBOX/Web-Bridge Launcher.vi"/>
-		</Item>
 		<Item Name="Nigel" Type="Folder">
 			<Item Name="Project Level Guidance" Type="Folder">
-				<Item Name="Stereo Microphone Input.lvproj" Type="Document" URL="../../../Users/nkirchne/Documents/LabVIEW Projects/FlexLogger IO Plug-ins/Stereo Microphone Input/Stereo Microphone Input.lvproj"/>
-				<Item Name="FPGA Raycaster.lvproj" Type="Document" URL="../../dataflowg/fpga-raycaster/src/FPGA Raycaster.lvproj"/>
-				<Item Name="Project Guidance.vi" Type="VI" URL="../../../Users/nkirchne/Documents/~SANDBOX/LabVIEW 2026 Q1 Features/Project Guidance.vi"/>
+				<Item Name="FPGA Raycaster.lvproj" Type="Document" URL="../fpga-raycaster/src/FPGA Raycaster.lvproj"/>
+				<Item Name="Stereo Microphone Input.lvproj" Type="Document" URL="../Stereo Microphone Input/Stereo Microphone Input.lvproj"/>
 			</Item>
-			<Item Name="Hardare Connected" Type="Folder"/>
-			<Item Name="Code Completion.vi" Type="VI" URL="../../../Users/nkirchne/Documents/~SANDBOX/LabVIEW 2026 Q1 Features/Code Completion.vi"/>
+			<Item Name="Code Completion.vi" Type="VI" URL="../Code Completion.vi"/>
+		</Item>
+		<Item Name="System Level Debug Settings" Type="Folder">
+			<Item Name="Logging Project.lvproj" Type="Document" URL="../Logging Project/Logging Project.lvproj"/>
+		</Item>
+		<Item Name="Externally Changed Files " Type="Folder">
+			<Item Name="Mark of the Web Example.vi" Type="VI" URL="../LVIntensityColorMap-reFresh-main/Mark of the Web Example.vi"/>
+		</Item>
+		<Item Name=".NET 8 Core improvement" Type="Folder">
+			<Item Name="dotNET improvments.vi" Type="VI" URL="../dotNET improvments.vi"/>
+		</Item>
+		<Item Name="Headless LabVIEW" Type="Folder">
+			<Item Name="headless.vi" Type="VI" URL="../headless.vi"/>
+		</Item>
+		<Item Name="Web Browser Control" Type="Folder">
+			<Item Name="Web Control Multi-Example.vi" Type="VI" URL="../Web Control Multi-Example.vi"/>
+			<Item Name="Video Playback Using Javascript.vi" Type="VI" URL="../Video Playback Using Javascript.vi"/>
+			<Item Name="Controlstack Web Bridge.vi" Type="VI" URL="../controlstack-web-bridge/LabVIEW/Controlstack Web Bridge.vi"/>
+			<Item Name="Web Control.lvproj" Type="Document" URL="../../../Program Files/National Instruments/LabVIEW 2026/examples/Controls and Indicators/Web Browser/Web Control.lvproj"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

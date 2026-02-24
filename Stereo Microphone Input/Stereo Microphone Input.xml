@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessingElement>
+  <Type>4252A40A-EE18-4C74-8551-E0ED3353BDD6</Type>
+  <Name>Stereo Microphone Input</Name>
+  <TemplateType>Plugin</TemplateType>
+  <DevelopmentKitVersion>26.0</DevelopmentKitVersion>
+  <Version>0.1</Version>
+  <OldestCompatibleVersion>0.1</OldestCompatibleVersion>
+  <AliasBase>StereoMicrophoneInput</AliasBase>
+  <Icon>input</Icon>
+  <Description>Acquires 2 channels of microphone input</Description>
+  <VIExec>niPluginWrapper</VIExec>  
+</ProcessingElement>
