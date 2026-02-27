@@ -30,6 +30,11 @@
 			<Item Name="Changed on disk dialog.vi" Type="VI" URL="../Changed on disk dialog.vi"/>
 		</Item>
 		<Item Name="Untrusted Code" Type="Folder">
+			<Item Name="Downloaded Code" Type="Folder">
+				<Item Name="Colormap Example Dataset.vi" Type="VI" URL="../LVIntensityColorMap-reFresh-main/Colormap Example Dataset.vi"/>
+				<Item Name="LV Colormap Fresh.vim" Type="VI" URL="../LVIntensityColorMap-reFresh-main/LV Colormap Fresh.vim"/>
+				<Item Name="LV Colormap Names.ctl" Type="VI" URL="../LVIntensityColorMap-reFresh-main/LV Colormap Names.ctl"/>
+			</Item>
 			<Item Name="Mark of the Web Example.vi" Type="VI" URL="../LVIntensityColorMap-reFresh-main/Mark of the Web Example.vi"/>
 		</Item>
 		<Item Name=".NET 8 Core improvement" Type="Folder">
@@ -43,13 +48,15 @@
 		</Item>
 		<Item Name="Web Browser Control" Type="Folder">
 			<Item Name="Web Control Multi-Example.vi" Type="VI" URL="../Web Control Multi-Example.vi"/>
+			<Item Name="Web Control.lvproj" Type="Document" URL="../../../Program Files/National Instruments/LabVIEW 2026/examples/Controls and Indicators/Web Browser/Web Control.lvproj"/>
 			<Item Name="Video Playback Using Javascript.vi" Type="VI" URL="../Video Playback Using Javascript.vi"/>
 			<Item Name="Controlstack Web Bridge.vi" Type="VI" URL="../controlstack-web-bridge/LabVIEW/Controlstack Web Bridge.vi"/>
-			<Item Name="Web Control.lvproj" Type="Document" URL="../../../Program Files/National Instruments/LabVIEW 2026/examples/Controls and Indicators/Web Browser/Web Control.lvproj"/>
 			<Item Name="SourceAdapt Custom Tuning.pdf" Type="Document" URL="../SourceAdapt Custom Tuning.pdf"/>
+			<Item Name="Trivial One Page Web Server.vi" Type="VI" URL="../../../Program Files/National Instruments/LabVIEW 2026/examples/Controls and Indicators/Web Browser/Trivial One Page Web Server.vi"/>
 		</Item>
-		<Item Name="New Folder" Type="Folder"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Property Name="NI.SortType" Type="Int">1</Property>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
