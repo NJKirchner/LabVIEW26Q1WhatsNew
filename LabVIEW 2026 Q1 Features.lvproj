@@ -33,7 +33,9 @@
 			<Item Name="Mark of the Web Example.vi" Type="VI" URL="../LVIntensityColorMap-reFresh-main/Mark of the Web Example.vi"/>
 		</Item>
 		<Item Name=".NET 8 Core improvement" Type="Folder">
-			<Item Name="dotNET callback.vi" Type="VI" URL="../dotNET callback.vi"/>
+			<Item Name="Callback" Type="Folder">
+				<Item Name="dotNET callback.vi" Type="VI" URL="../dotNET callback.vi"/>
+			</Item>
 			<Item Name="dotNET improvments.vi" Type="VI" URL="../dotNET improvments.vi"/>
 		</Item>
 		<Item Name="Headless LabVIEW" Type="Folder">
