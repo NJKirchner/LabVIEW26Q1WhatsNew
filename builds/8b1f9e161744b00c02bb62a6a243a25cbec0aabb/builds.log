@@ -1,0 +1,260 @@
+Project has no build specifications: LabVIEW 2026 Q1 Features.lvproj
+=== ExecuteBuildSpec 'FPGA-Raycaster-cRIO-9041' [{F4C5E96F-7410-48A5-BB87-3559BC9B167F}] target 'FPGA Target' in fpga-raycaster\src\FPGA Raycaster.lvproj ===
+LabVIEWCLI started logging in file:  C:\Users\ContainerAdministrator\AppData\Local\Temp\lvtemporary_711267.log
+Using LabVIEW: "C:\Program Files\National Instruments\LabVIEW 2026\LabVIEW.exe"
+LabVIEW launched successfully.
+Connection established with LabVIEW at port number 3363.
+
+LabVIEWCLI.exe : Operation output: 
+At C:\workspace\.github\labview\build-binaries.ps1:252 char:12
++     $out = & $CliExe @cliArgs 2>&1 | Out-String
++            ~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Operation output: :String) [], Re 
+   moteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Error Code : 1
+Error Message : The target "FPGA Target" was not found.
+
+
+
+
+
+<Call Chain>Error 1 occurred at GetTargetBuildSpecs (project reference).vi -> 
+GetTargetBuildSpecs.vi -> NI_App_Builder_API.lvlib:Build (path).vi -> 
+ExecuteBuildSpec.lvclass:RunOperation.vi:5910001 -> 
+CoreOperation.lvclass:CallRunOperation.vi:4230002 -> 
+ExecuteRunOperation.vi:5250001 -> ExecuteOperation.vi:6900002 -> 
+ExecuteOperation.vi.ProxyCaller
+
+
+
+Possible reason(s):
+
+
+LabVIEW: (Hex 0x1) An input parameter is invalid. For example if the input is 
+a path, the path might contain a character not allowed by the OS such as ? or 
+@.
+An error occurred while running the ExecuteBuildSpec operation.
+
+ExecuteBuildSpec operation failed.
+
+
+=== ExecuteBuildSpec 'FPGA-Raycaster-myRIO-1900' [{F4C5E96F-7410-48A5-BB87-3559BC9B167F}] target 'FPGA Target 2' in fpga-raycaster\src\FPGA Raycaster.lvproj ===
+LabVIEWCLI started logging in file:  C:\Users\ContainerAdministrator\AppData\Local\Temp\lvtemporary_908270.log
+Using LabVIEW: "C:\Program Files\National Instruments\LabVIEW 2026\LabVIEW.exe"
+Connection established with LabVIEW at port number 3363.
+
+LabVIEWCLI.exe : Operation output: 
+At C:\workspace\.github\labview\build-binaries.ps1:252 char:12
++     $out = & $CliExe @cliArgs 2>&1 | Out-String
++            ~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Operation output: :String) [], Re 
+   moteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Error Code : 1
+Error Message : The target "FPGA Target 2" was not found.
+
+
+
+
+
+<Call Chain>Error 1 occurred at GetTargetBuildSpecs (project reference).vi -> 
+GetTargetBuildSpecs.vi -> NI_App_Builder_API.lvlib:Build (path).vi -> 
+ExecuteBuildSpec.lvclass:RunOperation.vi:5910001 -> 
+CoreOperation.lvclass:CallRunOperation.vi:4230002 -> 
+ExecuteRunOperation.vi:5250001 -> ExecuteOperation.vi:6900002 -> 
+ExecuteOperation.vi.ProxyCaller
+
+
+
+Possible reason(s):
+
+
+LabVIEW: (Hex 0x1) An input parameter is invalid. For example if the input is 
+a path, the path might contain a character not allowed by the OS such as ? or 
+@.
+An error occurred while running the ExecuteBuildSpec operation.
+
+ExecuteBuildSpec operation failed.
+
+
+=== ExecuteBuildSpec 'Continuous Measurement and Logging Application' [EXE] target 'My Computer' in Logging Project\Logging Project.lvproj ===
+LabVIEWCLI started logging in file:  C:\Users\ContainerAdministrator\AppData\Local\Temp\lvtemporary_81535.log
+Using LabVIEW: "C:\Program Files\National Instruments\LabVIEW 2026\LabVIEW.exe"
+Connection established with LabVIEW at port number 3363.
+
+Operation output: 
+Generated files are:
+C:\workspace\builds\Logging Project\Continuous Measurement and Logging Application\Main.exe
+
+C:\workspace\builds\Logging Project\Continuous Measurement and Logging Application\Main.aliases
+
+C:\workspace\builds\Logging Project\Continuous Measurement and Logging Application\Main.ini
+
+
+ExecuteBuildSpec operation succeeded.
+
+
+Project has no build specifications: LVIntensityColorMap-reFresh-main\LVIntensityColorMap-reFresh.lvproj
+=== ExecuteBuildSpec 'Stereo Microphone Input Packed Library' [Packed Library] target 'My Computer' in Stereo Microphone Input\Stereo Microphone Input.lvproj ===
+LabVIEWCLI started logging in file:  C:\Users\ContainerAdministrator\AppData\Local\Temp\lvtemporary_334116.log
+Using LabVIEW: "C:\Program Files\National Instruments\LabVIEW 2026\LabVIEW.exe"
+Connection established with LabVIEW at port number 3363.
+
+LabVIEWCLI.exe : Operation output: 
+At C:\workspace\.github\labview\build-binaries.ps1:252 char:12
++     $out = & $CliExe @cliArgs 2>&1 | Out-String
++            ~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Operation output: :String) [], Re 
+   moteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Error Code : 1
+Error Message : Cannot complete build because following VI loaded broken:
+
+C:\workspace\Stereo Microphone Input\Initialize.vi
+
+Open the VI in LabVIEW and fix the listed errors. If the VI loads as expected 
+but errors are still detected during the build, contact National Instruments 
+technical support for assistance.
+
+Broken VIs:
+- Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Cleanup 
+Session.vi:
+	LabVIEW Object 'Plugin in': Refers to a missing LabVIEW class
+
+	LabVIEW Object 'Plugin out': Refers to a missing LabVIEW class
+
+- Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure 
+Session.vi:
+	LabVIEW Object 'Plugin in': Refers to a missing LabVIEW class
+
+	LabVIEW Object 'Plugin out': Refers to a missing LabVIEW class
+
+	LabVIEW Class Method SubVI 'Set Stream Timing.vi': The wired class does not 
+support a method of this VI's name.
+
+	LabVIEW Class Method SubVI 'Set Stream Timing.vi': SubVI is missing
+
+	Bundle By Name: Cluster is invalid or empty
+
+	Bundle By Name: Contains unwired or bad terminal
+
+	Poly VI 'Read Parameter.vi': SubVI is missing
+
+	Poly VI 'Read Parameter.vi': SubVI is missing
+
+	Poly VI 'Read Parameter.vi': SubVI is missing
+
+	Poly VI 'Read Parameter.vi': SubVI is missing
+
+	SubVI 'Get Valid Channels.vi': SubVI is missing
+
+	Call Parent Class Method 'Configure Session.vi': SubVI is missing
+
+	Front Panel Terminal 'Plugin out': Run-time type not propagated from dynamic 
+input to dynamic output
+
+	Poly VI 'Read Parameter.vi': SubVI is missing
+
+	Poly VI 'Read Parameter.vi': SubVI is missing
+
+	You have connected two terminals of different types.
+
+	Wire: Neither bundle nor unbundle of this LabVIEW class is allowed on this VI.
+
+	Wire: Class conflict
+
+- Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Finalize.vi:
+	LabVIEW Object 'Plugin in': Refers to a missing LabVIEW class
+
+	LabVIEW Object 'Plugin out': Refers to a missing LabVIEW class
+
+- Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi:
+	LabVIEW Object 'Plugin in': Refers to a missing LabVIEW class
+
+	LabVIEW Object 'Plugin out': Refers to a missing LabVIEW class
+
+	SubVI 'Add Channels.vi': SubVI is missing
+
+	Poly VI 'Write Parameter.vi': SubVI is missing
+
+	Poly VI 'Write Parameter.vi': SubVI is missing
+
+	Poly VI 'Write Parameter.vi': SubVI is missing
+
+	Poly VI 'Write Parameter.vi': SubVI is missing
+
+	SubVI 'Set Plugin Timing.vi': SubVI is missing
+
+	Call Parent Class Method 'Initialize.vi': SubVI is missing
+
+	Type Definition 'Timing Parameters': Type definition not found or contains 
+errors
+
+	Type Definition 'Timing Method': Type definition not found or contains errors
+
+	Type Definition 'Timing Method': Type definition not found or contains errors
+
+	Front Panel Terminal 'Plugin out': Run-time type not propagated from dynamic 
+input to dynamic output
+
+	Poly VI 'Create Channel_v2.vi': SubVI is missing
+
+	Poly VI 'Create Channel_v2.vi': SubVI is missing
+
+	Poly VI 'Write Parameter.vi': SubVI is missing
+
+	Poly VI 'Write Parameter.vi': SubVI is missing
+
+	Wire: Class conflict
+
+	Wire: Class conflict
+
+- Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Process.vi:
+	LabVIEW Object 'Plugin in': Refers to a missing LabVIEW class
+
+	LabVIEW Object 'Plugin out': Refers to a missing LabVIEW class
+
+	Poly VI 'Write Data.vi': SubVI is missing
+
+	Poly VI 'Write Data.vi': SubVI is missing
+
+	Unbundle By Name: Contains unwired or bad terminal
+
+	For Loop: N is not wired, and there are no indexing inputs.
+
+	Wire: Neither bundle nor unbundle of this LabVIEW class is allowed on this VI.
+
+
+
+
+
+
+
+
+
+
+
+Click the link below to visit the Application Builder support page. Use the 
+following information as a reference:
+
+
+
+Error 1003 occurred at AB_Get_Detailed_BrokenVI_Message.vi -> 
+AB_Targetfile.lvclass:Open_Top_Level_VIs.vi
+
+
+Possible reason(s):
+
+
+LabVIEW: (Hex 0x3EB) The VI is not executable. This error may occur because 
+the VI is either broken or contains a subVI that LabVIEW cannot locate. Select 
+File>>Open to open the VI and verify that you can run it.
+An error occurred while running the ExecuteBuildSpec operation.
+
+ExecuteBuildSpec operation failed.
+
+
