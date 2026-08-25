@@ -1,0 +1,374 @@
+{
+  "schema": 1,
+  "repo": "NJKirchner/LabVIEW26Q1WhatsNew",
+  "sha": "b48132cd5175b5b67a80c4e082c876cea6568ebc",
+  "revisions": [
+    {
+      "sha": "b48132cd5175b5b67a80c4e082c876cea6568ebc",
+      "short": "b48132c",
+      "message": "Add LabVIEW CI pipeline",
+      "author": "NJKirchner",
+      "date": "2026-08-25T14:20:46Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "8b1f9e161744b00c02bb62a6a243a25cbec0aabb",
+      "short": "8b1f9e1",
+      "message": "Link webbridge to local repo",
+      "author": "Norm Kirchner",
+      "date": "2026-03-03T22:03:26Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "48faf78f8478bcb8cfacf4e41ca05ded38366196",
+      "short": "48faf78",
+      "message": "more updating project for ease",
+      "author": "Norm Kirchner",
+      "date": "2026-02-27T21:37:51Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "542780939bbfeabb4930b4c29bf49245871719f1",
+      "short": "5427809",
+      "message": "cleanup for easy viewing .net",
+      "author": "Norm Kirchner",
+      "date": "2026-02-27T21:32:22Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "ac7a008a95d64b71422e815fc228f4749350ff11",
+      "short": "ac7a008",
+      "message": "mark of the web example placemnet yet again",
+      "author": "Norm Kirchner",
+      "date": "2026-02-27T21:21:05Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "65e6d7d5736c25c9fad3034f5821f4c09a058a51",
+      "short": "65e6d7d",
+      "message": "re-mark with the touch of the web",
+      "author": "Norm Kirchner",
+      "date": "2026-02-27T20:58:19Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "b31b75a1658092d4074daabba2fafb408a499632",
+      "short": "b31b75a",
+      "message": "update pre-recording,",
+      "author": "Norm Kirchner",
+      "date": "2026-02-26T16:26:23Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "7fc21182e9a742bed80a9c77d294a541f22e43b5",
+      "short": "7fc2118",
+      "message": "set back the MotW",
+      "author": "Norm Kirchner",
+      "date": "2026-02-24T23:49:30Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "4b0a7c858f8801640cf084af6a365b202237bd4e",
+      "short": "4b0a7c8",
+      "message": "reset mark of the web setp one",
+      "author": "Norm Kirchner",
+      "date": "2026-02-24T23:49:08Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "cf92566d8c7a9a4a8be9b5f64b2802b3f22a43a6",
+      "short": "cf92566",
+      "message": "Rename for demo",
+      "author": "Norm Kirchner",
+      "date": "2026-02-24T23:40:27Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "80032966d8889c71a2608e60223bf65ebe1f6117",
+      "short": "8003296",
+      "message": "add dep",
+      "author": "Norm Kirchner",
+      "date": "2026-02-24T23:10:56Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "1a36407638282754f5697d3796ffa89abffd31a7",
+      "short": "1a36407",
+      "message": "re assoc file base",
+      "author": "Norm Kirchner",
+      "date": "2026-02-24T23:05:35Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "6e93ac7674660974ae39495d8b09faca80ed0398",
+      "short": "6e93ac7",
+      "message": "Addition of attached labels",
+      "author": "Norm Kirchner",
+      "date": "2026-02-12T00:38:57Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "aafe14a90da102a0ae0d11d8c5da76eee897c20e",
+      "short": "aafe14a",
+      "message": "New Cluster Outputs",
+      "author": "Norm Kirchner",
+      "date": "2026-02-11T23:58:04Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "6819a41e806b9df8c93cc71c92ebfe376588ebe7",
+      "short": "6819a41",
+      "message": "Added exit unbundle",
+      "author": "Norm Kirchner",
+      "date": "2026-02-11T23:56:47Z",
+      "project": true,
+      "dep_only": false
+    },
+    {
+      "sha": "8565b2f4ce0d49c162bd58d0d280d0e3d5401c5f",
+      "short": "8565b2f",
+      "message": "initial commit",
+      "author": "Norm Kirchner",
+      "date": "2026-02-11T23:52:27Z",
+      "project": true,
+      "dep_only": false
+    }
+  ],
+  "config": {
+    "use": "",
+    "actions": {},
+    "vipc": [],
+    "dragon": [],
+    "hasVipcList": false,
+    "hasDragonList": false
+  },
+  "vipc": [
+    {
+      "path": ".github/labview/vipm/ci-tooling.vipc",
+      "role": "core",
+      "capability": "",
+      "tooling": true,
+      "configured": true,
+      "monitored": true,
+      "monitorOn": [
+        "windows",
+        "linux"
+      ],
+      "locked": true,
+      "packages": [
+        "astemes_lib_lunit-2.0.13.6",
+        "astemes_lib_lunit_cli-1.6.1.23",
+        "astemes_lib_lunit_coverage_analysis_add_on-1.0.0.2",
+        "astemes_lib_lunit_global_fixture_add_on-1.0.5.4",
+        "astemes_lib_lunit_parameterized_add_on-1.1.10.8",
+        "astemes_lib_lunit_test_inheritance_add_on-1.0.5.4",
+        "dataflow_g_lib_g_image-0.5.0.1",
+        "felipefoz_lib_lv_rainbow_terminal-1.1.1.5",
+        "jki_lib_caraya-1.4.4.148",
+        "jki_lib_state_machine-2024.0.3.23",
+        "jki_rsc_toolkits_palette-1.1-1",
+        "labview_open_source_lib_epoch_datetime-1.3.0.8",
+        "labview_open_source_project_lib_labview_open_source_palette-1.0.2.7",
+        "labview_open_source_project_lib_openuri-1.4.0.13",
+        "lvos_lib_caraya_cli_extension-2.0.0.7",
+        "ni_lib_junit_results_api-1.0.1.6",
+        "ni_lib_simple_xml-1.0.0.4",
+        "ni_lib_utf_junit_report-1.0.1.43",
+        "oglib_array-6.0.1.20",
+        "oglib_error-6.0.0.26",
+        "oglib_file-6.0.2.28",
+        "oglib_lvdata-6.0.0.45",
+        "oglib_string-6.0.2.35",
+        "pnr_lib_caraya_junit_for_azure_pipelines-1.2.0.11",
+        "pnr_lib_junit_xml-1.0.0.4",
+        "sas_workshops_lib_lunit_for_g_cli-1.2.1.85",
+        "wiresmith_technology_lib_g_cli-3.0.1.98"
+      ],
+      "error": ""
+    }
+  ],
+  "nipm": [
+    {
+      "name": "LabVIEW",
+      "source": "NI Package Manager",
+      "labview": true,
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "details": "LabVIEW runtime and development packages from the NI feeds."
+    },
+    {
+      "name": "VI Analyzer support",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-viawin-labview-support"
+        ],
+        "linux": [
+          "ni-vialin-labview-support"
+        ]
+      },
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "details": "NI VI Analyzer support package used by the analyzer runners."
+    },
+    {
+      "name": "NI Unit Test Framework",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-utf-labview-support"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "NI UTF support package used by the Windows unit-test runner."
+    },
+    {
+      "name": "JKI Dragon",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "jki-dragon"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "JKI Dragon dependency-management tooling installed from the LabVIEW 2026 NI Package Manager feed."
+    },
+    {
+      "name": "VI Package Manager",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-vipm"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "NI-published Windows VIPM package that enables VIPC application during worker builds. Linux installs VIPM from the native Debian package during its worker build."
+    }
+  ],
+  "dragon": {
+    "available": false,
+    "column": "windows",
+    "ready": false,
+    "health": "",
+    "manifest_version": "",
+    "files": [],
+    "install_set": [],
+    "conflicts": []
+  },
+  "system": [
+    {
+      "name": "VI Browser 2.0 toimages runner",
+      "source": "Repository Go code",
+      "path": ".github/labview/toimages/main.go",
+      "details": "Batch runner compiled from repo Go source; Linux uses the toimages GHCR image and Windows builds runner.exe in the workflow.",
+      "platforms": {
+        "windows": {
+          "present": true,
+          "label": "workflow-built"
+        },
+        "linux": {
+          "present": true,
+          "label": "toimages image"
+        }
+      }
+    },
+    {
+      "name": "lvctl render engine",
+      "source": "Repository Go code + embedded VIs",
+      "path": ".github/labview/toimages/_ni/labview/lvctl",
+      "details": "Renderer used by VI Browser 2.0 to drive LabVIEW and emit position-aware frame JSON.",
+      "platforms": {
+        "windows": {
+          "present": true,
+          "label": "workflow-built"
+        },
+        "linux": {
+          "present": true,
+          "label": "toimages image"
+        }
+      }
+    }
+  ],
+  "columns": [
+    {
+      "key": "windows",
+      "label": "Windows",
+      "platform": "windows",
+      "defaultTag": "latest",
+      "tag": "latest",
+      "ready": true,
+      "packages": [
+        "astemes_lib_lunit-2.0.13.6",
+        "astemes_lib_lunit_cli-1.6.1.23",
+        "astemes_lib_lunit_coverage_analysis_add_on-1.0.0.2",
+        "astemes_lib_lunit_global_fixture_add_on-1.0.5.4",
+        "astemes_lib_lunit_parameterized_add_on-1.1.10.8",
+        "astemes_lib_lunit_test_inheritance_add_on-1.0.5.4",
+        "dataflow_g_lib_g_image-0.5.0.1",
+        "felipefoz_lib_lv_rainbow_terminal-1.1.1.5",
+        "jki_lib_caraya-1.4.4.148",
+        "jki_lib_state_machine-2024.0.3.23",
+        "jki_rsc_toolkits_palette-1.1-1",
+        "labview_open_source_lib_epoch_datetime-1.3.0.8",
+        "labview_open_source_project_lib_labview_open_source_palette-1.0.2.7",
+        "labview_open_source_project_lib_openuri-1.4.0.13",
+        "lvos_lib_caraya_cli_extension-2.0.0.7",
+        "ni_lib_junit_results_api-1.0.1.6",
+        "ni_lib_simple_xml-1.0.0.4",
+        "ni_lib_utf_junit_report-1.0.1.43",
+        "oglib_array-6.0.1.20",
+        "oglib_error-6.0.0.26",
+        "oglib_file-6.0.2.28",
+        "oglib_lvdata-6.0.0.45",
+        "oglib_string-6.0.2.35",
+        "pnr_lib_caraya_junit_for_azure_pipelines-1.2.0.11",
+        "pnr_lib_junit_xml-1.0.0.4",
+        "sas_workshops_lib_lunit_for_g_cli-1.2.1.85",
+        "wiresmith_technology_lib_g_cli-3.0.1.98"
+      ],
+      "failed_packages": [],
+      "nipkg_ready": true,
+      "nipkg_packages": [],
+      "labview_version": "2026",
+      "version": "win-45030742b0ad"
+    },
+    {
+      "key": "linux",
+      "label": "Linux",
+      "platform": "linux",
+      "defaultTag": "latest",
+      "tag": "latest",
+      "ready": true,
+      "packages": [],
+      "failed_packages": [],
+      "nipkg_ready": true,
+      "nipkg_packages": [],
+      "labview_version": "2026",
+      "version": "linux-4ce478ba9bb6"
+    }
+  ]
+}
