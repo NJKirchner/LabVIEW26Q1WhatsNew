@@ -1,0 +1,127 @@
+LabVIEWCLI started logging in file:  /tmp/lvtemporary_726898.log
+Using LabVIEW: "/usr/local/natinst/LabVIEW-2026-64/labviewprofull"
+LabVIEW launched successfully.
+Connection established with LabVIEW at port number 3363.
+
+Operation output: 
+#### Starting Mass Compile: Tue, Aug 25, 2026 02:36:52 PM
+  Directory: "/workspace"
+Search failed to find "Trivial One Page Web Server.vi" previously from "/../Program Files/National Instruments/LabVIEW 2026/examples/Controls and Indicators/Web Browser/Trivial One Page Web Server.vi"  +=+   Caller: "Video Playback Using Javascript.vi"
+  ### Bad VI:    "Video Playback Using Javascript.vi"	Path="/workspace/Video Playback Using Javascript.vi" 
+CompileFile: skipping /workspace/Program Files/National Instruments/LabVIEW 2026/examples/Controls and Indicators/Web Browser/Trivial One Page Web Server.vi
+/workspace/.github/labview/PrintToSingleFileHtml/PrintToSingleFileHtml.lvclass (PrintToSingleFileHtml.lvclass)
+    - The class expected to be at "/workspace/.github/labview/CoreOperation/CoreOperation.lvclass" was loaded from "/usr/local/natinst/share/nilvcli/Operations/CoreOperation/CoreOperation.lvclass".
+Search failed to find "LV AI Core.lvlib:XML generator.vi" previously from "/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/LV AI Core/XML generator.vi"  +=+   Caller: "VI to XML.vi"
+  ### Bad VI:    "VI to XML.vi"	Path="/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/VI to XML.vi" 
+Search failed to find "LV AI Core.lvlib:VI generator.vi" previously from "/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/LV AI Core/VI generator.vi"  +=+   Caller: "XML to VI.vi"
+  ### Bad VI:    "XML to VI.vi"	Path="/workspace/.github/labview/toimages/_ni/labview/lvctl/vis/XML to VI.vi" 
+CompileFile: skipping /workspace/LVIntensityColorMap-reFresh-main/Example.vi
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/Plugin.lvclass"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass"
+Search failed to find "PluginSDK.lvlibp:Producer Channel.lvclass" previously from "/usr/local/natinst/LabVIEW-2026-64/vi.lib/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Producer Channel/Producer Channel.lvclass"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Add Channels.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/Add Channels.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Channel.lvclass:Write DBL.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Channel/ParameterAccess/Write DBL.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Channel.lvclass:Write Parameter.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Channel/ParameterAccess/Write Parameter.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Producer Channel.lvclass:Create Producer Channel_v2.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Producer Channel/Create Producer Channel_v2.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Create Channel_v2.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Create Channel_v2.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Write DBL.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/ParameterAccess/Write DBL.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Write String.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/ParameterAccess/Write String.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Write Parameter.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/ParameterAccess/Write Parameter.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Set Plugin Timing.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/Set Plugin Timing.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Processing Element.lvclass:Timing Parameters.ctl" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Processing Element/Timing Parameters.ctl"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Read DBL.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/ParameterAccess/Read DBL.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure Session.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Read String.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/ParameterAccess/Read String.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure Session.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Read Parameter.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/ParameterAccess/Read Parameter.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure Session.vi"
+Search failed to find "PluginSDK.lvlibp:Channel.lvclass:Read DBL.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Channel/ParameterAccess/Read DBL.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure Session.vi"
+Search failed to find "PluginSDK.lvlibp:Channel.lvclass:Read Parameter.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Channel/ParameterAccess/Read Parameter.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure Session.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Get Valid Channels.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/Get Valid Channels.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure Session.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Write 2D DBL (NChan NSamples).vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/DataHelpers/Write 2D DBL (NChan NSamples).vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Process.vi"
+Search failed to find "PluginSDK.lvlibp:Plugin.lvclass:Write Data.vi" previously from "/<vilib>/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/DataHelpers/Write Data.vi"  +=+   Caller: "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Process.vi"
+Search failed to find "Producer Channel.lvclass" previously from "/usr/local/natinst/LabVIEW-2026-64/vi.lib/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Producer Channel/Producer Channel.lvclass"
+Search failed to find "Plugin.lvclass" previously from "/usr/local/natinst/LabVIEW-2026-64/vi.lib/FlexLogger/SDK/PluginSDK.lvlibp/PEFClasses/SDK/Plugin/Plugin.lvclass"
+  ### Bad VI:    "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Initialize.vi"	Path="/workspace/Stereo Microphone Input/Initialize.vi" 
+  ### Bad VI:    "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Configure Session.vi"	Path="/workspace/Stereo Microphone Input/Configure Session.vi" 
+  ### Bad VI:    "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Process.vi"	Path="/workspace/Stereo Microphone Input/Process.vi" 
+  ### Bad VI:    "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Cleanup Session.vi"	Path="/workspace/Stereo Microphone Input/Cleanup Session.vi" 
+  ### Bad VI:    "Stereo Microphone Input.lvlib:Stereo Microphone Input.lvclass:Finalize.vi"	Path="/workspace/Stereo Microphone Input/Finalize.vi" 
+Search failed to find "niFpgaContainer.xnode" previously from "/<vilib>/rvi/DataTransferAndStorage/Container/XNode/niFpgaContainer.xnode"  +=+   Caller: "VESASignal_CalcFramebufferAddress.vi"
+  ### Bad VI:    "VESASignal_CalcFramebufferAddress.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_CalcFramebufferAddress.vi" 
+/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_CalcFramebufferAddress.vi (VESASignal_CalcFramebufferAddress.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+Search failed to find "EIONode.xnode" previously from "/<vilib>/eio/EIONode/EIONode.xnode"  +=+   Caller: "VESASignal_Run.vi"
+Search failed to find "XDataNode.xnode" previously from "/<vilib>/Platform/TimedLoop/XDataNode/XDataNode.xnode"  +=+   Caller: "VESASignal_Run.vi"
+Search failed to find "nirviEmuTemplateMethod_errors.vi" previously from "/<vilib>/rvi/eio/common/nirviEmuTemplateMethod_errors.vi"  +=+   Caller: "VESASignal_Run.vi"
+Search failed to find "nirvimemoryEmulation.vi" previously from "/<vilib>/rvi/Memory/Memory_Emulation/nirvimemoryEmulation.vi"  +=+   Caller: "VESASignal_Run.vi"
+Search failed to find "nirvimemoryFastEmulation.vi" previously from "/<vilib>/rvi/Memory/Memory_Emulation/nirvimemoryFastEmulation.vi"  +=+   Caller: "VESASignal_Run.vi"
+Search failed to find "XDNodeRunTimeDep.lvlib:timing_clust.ctl" previously from "/<vilib>/Platform/TimedLoop/XDataNode/timing_clust.ctl"  +=+   Caller: "VESASignal_Run.vi"
+  ### Bad VI:    "VESASignal_CalcFramebufferAddress.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_CalcFramebufferAddress.vi" 
+  ### Bad VI:    "VESASignal_Run.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_Run.vi" 
+/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_CalcFramebufferAddress.vi (VESASignal_CalcFramebufferAddress.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_Run.vi (VESASignal_Run.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+Search failed to find "FxpSim.dll" previously from "/<vilib>/rvi/FXPMathLib/sim/FxpSim.dll"  +=+   Caller: "Math_Add_FXP.vi"
+Search failed to find "nifxpmath_Add.xnode" previously from "/<vilib>/rvi/FXPMathLib/FxpAdd/XNode/nifxpmath_Add.xnode"  +=+   Caller: "Math_Add_FXP.vi"
+/workspace/fpga-raycaster/src/SubVIs/Map_ReadValue.vi (Map_ReadValue.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Math_Add_FXP.vi (Math_Add_FXP.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+Search failed to find "nifxpmath_Div.xnode" previously from "/<vilib>/rvi/FXPMathLib/FxpDiv/XNode/nifxpmath_Div.xnode"  +=+   Caller: "Math_Divide_FXP.vi"
+/workspace/fpga-raycaster/src/SubVIs/Math_Divide_FXP.vi (Math_Divide_FXP.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+Search failed to find "nifxpmath_Multiplier.xnode" previously from "/<vilib>/rvi/FXPMathLib/FxpMul/XNode/nifxpmath_Multiplier.xnode"  +=+   Caller: "Math_Multiply_FXP.vi"
+/workspace/fpga-raycaster/src/SubVIs/Math_Multiply_FXP.vi (Math_Multiply_FXP.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+Search failed to find "nifxpmath_Reciprocal.xnode" previously from "/<vilib>/rvi/FXPMathLib/FxpReciprocal/XNode/nifxpmath_Reciprocal.xnode"  +=+   Caller: "Math_Reciprocal.vi"
+/workspace/fpga-raycaster/src/SubVIs/Math_Reciprocal.vi (Math_Reciprocal.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+Search failed to find "nifxpmath_Sub.xnode" previously from "/<vilib>/rvi/FXPMathLib/FxpSub/XNode/nifxpmath_Sub.xnode"  +=+   Caller: "Math_Subtract_FXP.vi"
+/workspace/fpga-raycaster/src/SubVIs/Math_Subtract_FXP.vi (Math_Subtract_FXP.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_CalcObjectDistance.vi (Raycaster_CalcObjectDistance.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_DrawBackground.vi (Raycaster_DrawBackground.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_DrawColumnSimple.vi (Raycaster_DrawColumnSimple.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_DrawColumnTextured.vi (Raycaster_DrawColumnTextured.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Texture_ReadValue.vi (Texture_ReadValue.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+  ### Bad VI:    "Sprite_DecodeRLEToMemory.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/Sprite_DecodeRLEToMemory.vi" 
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_DrawSprites.vi (Raycaster_DrawSprites.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_ReadWallHeight.vi (Raycaster_ReadWallHeight.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_WriteFramebuffer.vi (Raycaster_WriteFramebuffer.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Sprite_DecodeRLEToMemory.vi (Sprite_DecodeRLEToMemory.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Sprite_ReadValue.vi (Sprite_ReadValue.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_DrawSubBuffer.vi (Raycaster_DrawSubBuffer.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_RunDDA.vi (Raycaster_RunDDA.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+  ### Bad VI:    "Video_FlipFrameBuffer.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/Video_FlipFrameBuffer.vi" 
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_FizzleFade.vi (Raycaster_FizzleFade.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Video_FlipFrameBuffer.vi (Video_FlipFrameBuffer.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+Search failed to find "nifxpmath_SinAndCos.xnode" previously from "/<vilib>/rvi/FXPMathLib/FxpSinAndCos/XNode/nifxpmath_SinAndCos.xnode"  +=+   Caller: "Raycaster_UpdatePosition.vi"
+  ### Bad VI:    "Video_FlipFrameBuffer.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/Video_FlipFrameBuffer.vi" 
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_Run.vi (Raycaster_Run.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Raycaster_UpdatePosition.vi (Raycaster_UpdatePosition.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/Video_FlipFrameBuffer.vi (Video_FlipFrameBuffer.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+  ### Bad VI:    "VESASignal_CalcFramebufferAddress.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_CalcFramebufferAddress.vi" 
+  ### Bad VI:    "VESASignal_Run.vi"	Path="/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_Run.vi" 
+/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_CalcFramebufferAddress.vi (VESASignal_CalcFramebufferAddress.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+/workspace/fpga-raycaster/src/SubVIs/FPGA/VESASignal_Run.vi (VESASignal_Run.vi)
+    NI LabVIEW FPGA Module support for LabVIEW 2026 is missing and is referenced by the following VIs:
+#### Finished Mass Compile: Tue, Aug 25, 2026 02:37:24 PM
+
+MassCompile operation failed.
+
