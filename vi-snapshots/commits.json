@@ -1,0 +1,114 @@
+[
+  {
+    "sha": "b48132cd5175b5b67a80c4e082c876cea6568ebc",
+    "short": "b48132c",
+    "message": "Add LabVIEW CI pipeline",
+    "author": "NJKirchner",
+    "date": "2026-08-25T09:20:46-05:00",
+    "vi_count": 140
+  },
+  {
+    "sha": "8b1f9e161744b00c02bb62a6a243a25cbec0aabb",
+    "short": "8b1f9e1",
+    "message": "Link webbridge to local repo",
+    "author": "Norm Kirchner",
+    "date": "2026-03-03T16:03:26-06:00",
+    "vi_count": 140
+  },
+  {
+    "sha": "ac7a008a95d64b71422e815fc228f4749350ff11",
+    "short": "ac7a008",
+    "message": "mark of the web example placemnet yet again",
+    "author": "Norm Kirchner",
+    "date": "2026-02-27T15:21:05-06:00",
+    "vi_count": 140
+  },
+  {
+    "sha": "65e6d7d5736c25c9fad3034f5821f4c09a058a51",
+    "short": "65e6d7d",
+    "message": "re-mark with the touch of the web",
+    "author": "Norm Kirchner",
+    "date": "2026-02-27T14:58:19-06:00",
+    "vi_count": 134
+  },
+  {
+    "sha": "b31b75a1658092d4074daabba2fafb408a499632",
+    "short": "b31b75a",
+    "message": "update pre-recording,",
+    "author": "Norm Kirchner",
+    "date": "2026-02-26T10:26:23-06:00",
+    "vi_count": 134
+  },
+  {
+    "sha": "7fc21182e9a742bed80a9c77d294a541f22e43b5",
+    "short": "7fc2118",
+    "message": "set back the MotW",
+    "author": "Norm Kirchner",
+    "date": "2026-02-24T17:49:30-06:00",
+    "vi_count": 143
+  },
+  {
+    "sha": "4b0a7c858f8801640cf084af6a365b202237bd4e",
+    "short": "4b0a7c8",
+    "message": "reset mark of the web setp one",
+    "author": "Norm Kirchner",
+    "date": "2026-02-24T17:49:08-06:00",
+    "vi_count": 143
+  },
+  {
+    "sha": "cf92566d8c7a9a4a8be9b5f64b2802b3f22a43a6",
+    "short": "cf92566",
+    "message": "Rename for demo",
+    "author": "Norm Kirchner",
+    "date": "2026-02-24T17:40:27-06:00",
+    "vi_count": 143
+  },
+  {
+    "sha": "80032966d8889c71a2608e60223bf65ebe1f6117",
+    "short": "8003296",
+    "message": "add dep",
+    "author": "Norm Kirchner",
+    "date": "2026-02-24T17:10:56-06:00",
+    "vi_count": 143
+  },
+  {
+    "sha": "1a36407638282754f5697d3796ffa89abffd31a7",
+    "short": "1a36407",
+    "message": "re assoc file base",
+    "author": "Norm Kirchner",
+    "date": "2026-02-24T17:05:35-06:00",
+    "vi_count": 62
+  },
+  {
+    "sha": "6e93ac7674660974ae39495d8b09faca80ed0398",
+    "short": "6e93ac7",
+    "message": "Addition of attached labels",
+    "author": "Norm Kirchner",
+    "date": "2026-02-11T18:38:57-06:00",
+    "vi_count": 46
+  },
+  {
+    "sha": "aafe14a90da102a0ae0d11d8c5da76eee897c20e",
+    "short": "aafe14a",
+    "message": "New Cluster Outputs",
+    "author": "Norm Kirchner",
+    "date": "2026-02-11T17:58:04-06:00",
+    "vi_count": 46
+  },
+  {
+    "sha": "6819a41e806b9df8c93cc71c92ebfe376588ebe7",
+    "short": "6819a41",
+    "message": "Added exit unbundle",
+    "author": "Norm Kirchner",
+    "date": "2026-02-11T17:56:47-06:00",
+    "vi_count": 46
+  },
+  {
+    "sha": "8565b2f4ce0d49c162bd58d0d280d0e3d5401c5f",
+    "short": "8565b2f",
+    "message": "initial commit",
+    "author": "Norm Kirchner",
+    "date": "2026-02-11T17:52:27-06:00",
+    "vi_count": 46
+  }
+]
